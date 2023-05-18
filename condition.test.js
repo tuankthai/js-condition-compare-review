@@ -3,7 +3,7 @@ const {
     checkAge,
     checkLeapYear,
     findLargestNumber,
-  } = require("./solution.js");
+  } = require("./review-condition.js");
 // Exercise 1
 describe("checkNumber", () => {
     it("should display 'Positive number' when the number is positive", () => {
